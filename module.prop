@@ -1,0 +1,6 @@
+id=gpu_driver_s5e8825
+name=Exynos 1280 GPU Driver Update
+version=v1.0.0
+versionCode=100
+author=Flopster101
+description=Updates Mali G68 blobs.
